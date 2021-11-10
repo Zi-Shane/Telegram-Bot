@@ -1,0 +1,5 @@
+secret
+.env
+generate_cert.sh
+.vscode
+ngrok
